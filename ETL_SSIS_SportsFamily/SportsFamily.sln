@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SportsFamily", "SportsFamily\SportsFamily.dtproj", "{E143FFAE-DDF6-4564-8F3A-9E83719134B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E143FFAE-DDF6-4564-8F3A-9E83719134B1}.Development|Default.ActiveCfg = Development
+		{E143FFAE-DDF6-4564-8F3A-9E83719134B1}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AC3C486-B73B-4CE3-9256-DF13EF5D6797}
+	EndGlobalSection
+EndGlobal
